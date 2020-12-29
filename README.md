@@ -1,4 +1,4 @@
-# pingflood
+# ping
 Network connection testing tool
 
 requirements:
