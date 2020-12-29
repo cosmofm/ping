@@ -1,5 +1,5 @@
 # pingflood
-Network stress testing tool for using large packet sizes and multiple nodes.
+Network connection testing tool
 
 requirements:
 
